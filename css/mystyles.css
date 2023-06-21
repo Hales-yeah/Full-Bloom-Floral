@@ -1,0 +1,15 @@
+.mywhite{
+    color:white;
+    font-size: 28px;
+}
+
+.para {
+    font-size: 19px;
+}
+
+.list{
+    font-size: 25px;
+    color: white;
+    text-align:center;
+    list-style-position: inside;
+}

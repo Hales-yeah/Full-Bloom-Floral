@@ -1,0 +1,46 @@
+.name{
+    background-color:#ffebcd;
+}
+
+/* I don't think this one is working either, I need to figure out how to make it above my section */
+.aboutme{
+    text-align:right;
+    padding-right: 10%;
+    background-color:lightblue;
+}
+
+.summary{
+    background-color:#FFDB58;
+}
+
+.container{
+    display:flex;
+    align-items:center;
+}
+
+/*I don't think this image section is actually doing anything */ 
+.image {
+    padding: 30px;
+    flex: 0 0 auto;
+    margin-right: 20px;
+    background-color:#FFEBCD;
+}
+
+body{
+    background-color:rgba(247, 229, 207, 0.421);
+    font-family:'Courier New', Courier, monospace;
+    text-align:justify;
+    border: 5px solid peachpuff;
+    margin:20px;
+    padding:30px;
+}
+
+.emphasized{
+    text-decoration:underline;
+}
+
+.video{text-align:center;}
+
+.cc{
+    background-color:#FFEBCD;
+}
